@@ -8,11 +8,9 @@ Essentially this is an English speaking club, but with solving coding problems. 
 
 We are a friendly community, but If you'd like we could simulate a real-world whiteboard interview, including:
 
-• Judgemental stares at you for minor typos and missing semicolons
-
-• Condescending remarks about your answers
-
-• Asking you impossibly hard questions and pretending we didn't have to decipher available solutions for two days beforehand
+- Judgemental stares at you for minor typos and missing semicolons
+- Condescending remarks about your answers
+- Asking you impossibly hard questions and pretending we didn't have to decipher available solutions for two days beforehand
 
 Joking, don't be stressed too much. Just say hello, introduce yourself, and start geeking out.
 
