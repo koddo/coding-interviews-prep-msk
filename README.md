@@ -5,7 +5,7 @@ Essentially this is an English speaking club, but with solving coding problems. 
 
 We are a friendly community, but If you'd like we could simulate a real-world whiteboard interview, including:
 
-• Judgemental stares at you for minor typos and missed semicolons
+• Judgemental stares at you for minor typos and missing semicolons
 
 • Condescending remarks about your answers
 
