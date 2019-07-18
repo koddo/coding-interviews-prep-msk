@@ -21,4 +21,8 @@ Our telegram group: https://t.me/coding_interviews_prep_msk
 
 TODO: list of algorithms theory and data structures topics
 
+TODO: list of websites with problems
+
+TODO: what to expect from the meetup
+
 
