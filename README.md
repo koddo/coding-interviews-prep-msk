@@ -17,5 +17,8 @@ We meet at the Kocherga anticafe in Moscow (https://kocherga-club.ru/), which me
 
 Our telegram group: https://t.me/coding_interviews_prep_msk
 
-# Collaboration
-If you have anything to add, I'll give you collaborator permissions.
+# A list
+
+TODO: list of algorithms theory and data structures topics
+
+
