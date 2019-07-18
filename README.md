@@ -1,21 +1,11 @@
 # Preparing for coding interviews together, in English
-Repo for https://meetup.com/coding-interviews-prep-msk/
 
-Essentially this is an English speaking club, but with solving coding problems. Our meetings have no structure so far, we just use Leetcode, Hackerrank, and the "Cracking the Coding Interview" book. That simple. We'll get more organized a bit later.
+https://meetup.com/coding-interviews-prep-msk/
 
-We are a friendly community, but If you'd like we could simulate a real-world whiteboard interview, including:
+Essentially this is an English speaking club, but with solving coding problems.
 
-• Judgemental stares at you for minor typos and missing semicolons
+Our telegram chat: https://t.me/coding_interviews_prep_msk
 
-• Condescending remarks about your answers
-
-• Asking you impossibly hard questions and pretending we didn't have to decipher available solutions for two days beforehand
-
-Joking, don't be stressed too much. Just say hello, introduce yourself, and start geeking out.
-
-We meet at the Kocherga anticafe in Moscow (https://kocherga-club.ru/), which means we all pay for the time spent there: 2.5 rubles per minute, it's 150 rubles per hour. They have free coffee and cookies though, and a wonderful nerdy atmosphere, you'll love it I promise. And they have VR btw.
-
-Our telegram group: https://t.me/coding_interviews_prep_msk
 
 # A list
 
