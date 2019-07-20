@@ -14,7 +14,7 @@ We are a friendly community, but If you'd like we could simulate a real-world wh
 
 Joking, don't be stressed too much. Just say hello, introduce yourself, and start geeking out.
 
-We meet at the Kocherga anticafe in Moscow (https://kocherga-club.ru/), which means each of us pays for the time spent there: 2.5 rubles per minute, it's 150 rubles per hour, two hours is 300 rubles correspondingly. They have free coffee and cookies though, and a wonderful nerdy atmosphere, you'll love it I promise. And they have VR btw.
+We meet at the Kocherga anticafe in Moscow (https://kocherga-club.ru/), which means each of us pays for the time spent there: 2.5 rubles per minute, it's 150 rubles per hour. They have free coffee and cookies though, and a wonderful nerdy atmosphere, you'll love it I promise. And they have VR btw.
 
 
 # A list
@@ -23,6 +23,4 @@ TODO: list of algorithms theory and data structures topics
 
 TODO: list of websites with problems
 
-TODO: what to expect from the meetup
-
-
+TODO: buy a hardcopy of the "Cracking the Coding Interview" book
