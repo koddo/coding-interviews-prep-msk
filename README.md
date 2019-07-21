@@ -24,3 +24,12 @@ TODO: list of algorithms theory and data structures topics
 TODO: list of websites with problems
 
 TODO: buy a hardcopy of the "Cracking the Coding Interview" book
+
+# Sort this
+
+- https://interviewing.io/recordings
+- https://www.pramp.com/
+
+
+- https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems
+- http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html
