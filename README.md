@@ -29,7 +29,7 @@ TODO: buy a hardcopy of the "Cracking the Coding Interview" book
 
 Free online mock interviews:
 
-- https://interviewing.io/recordings
+- https://interviewing.io/, https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg
 - https://www.pramp.com/
 
 Functional programming problems:
