@@ -27,9 +27,12 @@ TODO: buy a hardcopy of the "Cracking the Coding Interview" book
 
 # Sort this
 
+Free online mock interviews:
+
 - https://interviewing.io/recordings
 - https://www.pramp.com/
 
+Functional programming problems:
 
 - https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems
 - http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html
