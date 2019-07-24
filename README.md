@@ -36,3 +36,9 @@ Functional programming problems:
 
 - https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems
 - http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html
+
+# Attributions
+
+## The logo
+
+https://commons.wikimedia.org/wiki/File:Complete_binary.svg by Theresa Migler-VonDollen, licensed under CC-BY-SA-4.0
