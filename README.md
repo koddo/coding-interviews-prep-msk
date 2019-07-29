@@ -29,13 +29,21 @@ TODO: buy a hardcopy of the "Cracking the Coding Interview" book
 
 Free online mock interviews:
 
-- https://interviewing.io/, https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg
+- https://interviewing.io/, recordings: https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg
 - https://www.pramp.com/
 
 Functional programming problems:
 
 - https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems
 - http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html
+
+# Log
+
+## 2019-07-28
+
+We spent most of the time introducing ourselves and talking. A group of people started helping a newbie with python, and others opened the season with the in-place variant of the following problem:
+
+- https://leetcode.com/problems/reverse-words-in-a-string/
 
 # Attributions
 
