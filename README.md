@@ -41,7 +41,7 @@ Functional programming problems:
 
 ## 2019-07-28
 
-We spent most of the time introducing ourselves and talking. Then a group of people started helping a newbie with python, and others opened the season with solving following problems:
+We spent most of the time introducing ourselves and talking. Then a group of people started helping a newbie with python, and others opened the season with solving the following:
 
 - https://leetcode.com/problems/reverse-words-in-a-string/ — the in-place variant
 - https://leetcode.com/problems/next-permutation/
