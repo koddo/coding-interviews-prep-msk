@@ -8,6 +8,9 @@ Our telegram chat: https://t.me/coding_interviews_prep_msk
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Complete_binary.svg" width="20em" alt="a binary tree logo">
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Complete_binary.svg" style="width:10em" alt="a binary tree logo">
+
+
 Essentially this is an English speaking club, but with solving coding problems. Our meetings have no structure so far, we just use Leetcode, Hackerrank, and the "Cracking the Coding Interview" book. That simple. We'll get more organized a bit later.
 
 We are a friendly community, but If you'd like we could simulate a real-world whiteboard interview, including:
