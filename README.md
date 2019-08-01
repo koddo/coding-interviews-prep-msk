@@ -25,6 +25,12 @@ TODO: list of algorithms theory and data structures topics
 
 TODO: list of websites with problems
 
+- https://www.leetcode.com
+- https://www.hackerrank.com
+- https://www.geeksforgeeks.org
+- https://www.careercup.com
+- https://www.glassdoor.com
+
 TODO: buy a hardcopy of the "Cracking the Coding Interview" book
 
 # Sort this
