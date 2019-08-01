@@ -19,23 +19,27 @@ Joking, don't be stressed too much. Just say hello, introduce yourself, and star
 We meet at the Kocherga anticafe in Moscow (https://kocherga-club.ru/), which means each of us pays for the time spent there: 2.5 rubles per minute, it's 150 rubles per hour. They have free coffee and cookies though, and a wonderful nerdy atmosphere, you'll love it I promise. And they have VR btw.
 
 
-# A list
+# To-do list
 
 TODO: list of algorithms theory and data structures topics
 
-TODO: list of websites with problems
-
-- https://www.leetcode.com
-- https://www.hackerrank.com
-- https://www.geeksforgeeks.org
-
-
-- https://www.careercup.com
-- https://www.glassdoor.com
-
 TODO: buy a hardcopy of the "Cracking the Coding Interview" book
 
+
 # Sort this
+
+Our main resource:
+
+- https://www.leetcode.com/
+- https://www.hackerrank.com/
+- https://www.geeksforgeeks.org/
+- https://www.codechef.com/
+- https://www.quora.com/What-are-some-good-coding-competition-practice-sites
+
+Problems catalogued by company:
+
+- https://www.careercup.com/
+- https://www.glassdoor.com/
 
 Free online mock interviews:
 
