@@ -57,6 +57,12 @@ Data science problems:
 
 # Log
 
+## 2019-08-04
+
+- https://leetcode.com/problems/two-sum/
+- https://leetcode.com/problems/single-number/, https://leetcode.com/problems/single-number-ii/
+- https://leetcode.com/problems/trapping-rain-water/
+
 ## 2019-07-28
 
 We spent most of the time introducing ourselves and talking. Then a group of people started helping a newbie with python, and others opened the season with solving the following:
