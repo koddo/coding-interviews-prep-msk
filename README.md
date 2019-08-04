@@ -51,6 +51,10 @@ Functional programming problems:
 - https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems
 - http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html
 
+Data science problems:
+
+- https://contest.yandex.ru/contest/8776/enter/
+
 # Log
 
 ## 2019-07-28
