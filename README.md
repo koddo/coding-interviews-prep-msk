@@ -24,6 +24,8 @@ We meet at the Kocherga anticafe in Moscow (https://kocherga-club.ru/), which me
 2. Actually solve a couple of problems to get comfortable with the interface.
 3. Install a dictionary on your phone.
 
+You can also focus on practicing in your target language first. For example, https://www.hackerrank.com/domains/python or https://www.hackerrank.com/domains/cpp.
+
 # To-do list
 
 TODO: list of algorithms theory and data structures topics
@@ -39,6 +41,7 @@ Our main resource:
 - https://www.hackerrank.com/
 - https://www.geeksforgeeks.org/
 - https://www.codechef.com/
+- https://www.hackerearth.com/
 - https://www.quora.com/What-are-some-good-coding-competition-practice-sites
 
 Problems catalogued by company:
