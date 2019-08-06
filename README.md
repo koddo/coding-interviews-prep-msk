@@ -18,6 +18,11 @@ Joking, don't be stressed too much. Just say hello, introduce yourself, and star
 
 We meet at the Kocherga anticafe in Moscow (https://kocherga-club.ru/), which means each of us pays for the time spent there: 2.5 rubles per minute, it's 150 rubles per hour. They have free coffee and cookies though, and a wonderful nerdy atmosphere, you'll love it I promise. And they have VR btw.
 
+# Your homework
+
+1. Sign up to https://www.hackerrank.com/ and https://www.leetcode.com/ to be ready to solve coding problems on these sites.
+2. Actually solve a couple of problems to get comfortable with the interface.
+3. Install a dictionary on your phone.
 
 # To-do list
 
@@ -43,7 +48,7 @@ Problems catalogued by company:
 
 Free online mock interviews:
 
-- https://interviewing.io/, recordings: https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg
+- https://interviewing.io/, recordings of mock interviews: https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg
 - https://www.pramp.com/
 
 Functional programming problems:
@@ -54,6 +59,7 @@ Functional programming problems:
 Data science problems:
 
 - https://contest.yandex.ru/contest/8776/enter/
+- TODO: add more
 
 # Log
 
