@@ -28,12 +28,13 @@ You can also focus on practicing in your target language first. For example, htt
 
 # To-do list
 
-TODO: list of algorithms theory and data structures topics
+TODO: a list of algorithms theory and data structures topics, so we can rotate them every arbitrary period of time, e.g., a month or two
 
 TODO: buy a hardcopy of the "Cracking the Coding Interview" book
 
+TODO: a list of phone interview questions, https://javarevisited.blogspot.com/2015/02/50-programmer-phone-interview-questions-answers.html
 
-# Sort this
+# Coding problems websites
 
 Our main resource:
 
