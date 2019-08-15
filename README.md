@@ -69,7 +69,7 @@ Data science problems:
 
 ## 2019-08-11
 
-Turns out the [trapping-rain-water problem](https://leetcode.com/problems/trapping-rain-water/) is not as easy as it seems. Most of us managed to write a bad non-linear solution, but there's a good one: [solutions/trapping-rain-water.clj](solutions/trapping-rain-water.clj).
+Turns out the [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/) problem is not as easy as it seems. Most of us managed to write a bad non-linear solution, but there's a good one: [solutions/trapping-rain-water.clj](solutions/trapping-rain-water.clj).
 
 A group of people discussed the following big question: how does pagination work? How to implement it with and without sql? Why offset+limit is slow and what to use instead? Spoiler: keyset pagination.
 
