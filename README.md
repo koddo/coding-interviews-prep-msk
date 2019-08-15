@@ -65,6 +65,10 @@ Data science problems:
 - https://contest.yandex.ru/contest/8776/enter/
 - TODO: add more
 
+Code review:
+
+- https://geektastic.com
+
 # Log
 
 ## 2019-08-11
