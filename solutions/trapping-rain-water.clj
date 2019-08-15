@@ -1,4 +1,5 @@
 ;;; https://leetcode.com/problems/trapping-rain-water/
+;;; solution copied from here: https://pastebin.com/s1jyYiiM
 
 ;; with reduce
 (defn trap-rain-water [h]
