@@ -65,9 +65,14 @@ Data science problems:
 - https://contest.yandex.ru/contest/8776/enter/
 - TODO: add more
 
-Code review:
+Code reviews:
 
 - https://geektastic.com
+
+# Vocabulary
+
+- linear
+- quadratic
 
 # Log
 
