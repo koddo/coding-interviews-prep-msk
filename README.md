@@ -71,8 +71,11 @@ Code reviews:
 
 # Vocabulary
 
-- linear
-- quadratic
+- [linear](https://en.wiktionary.org/wiki/linear) time, /ˈlɪnɪə/
+- [height](https://en.wiktionary.org/wiki/height) vs [hate](https://en.wiktionary.org/wiki/hate), /hʌɪt/ vs /heɪt/
+- [variable](https://en.wiktionary.org/wiki/variable), /ˈvɛːrɪəb(ə)l/
+
+[vocabulary.md](vocabulary.md)
 
 # Log
 
