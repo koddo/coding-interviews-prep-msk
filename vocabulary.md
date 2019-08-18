@@ -23,3 +23,12 @@ copypaste this:
 - [probabilistic](https://en.wiktionary.org/wiki/probabilistic), /ˌprɒbəbɪˈlɪstɪk/
 - [deterministic](https://en.wiktionary.org/wiki/deterministic), /ˌdɪtəːmɪˈnɪstɪk/
 
+<br />
+
+- [also](https://en.wiktionary.org/wiki/also), /ˈɔːlsəʊ/, not /ˈɛ:lsəʊ/
+
+<br />
+
+- [arbitrary](https://en.wiktionary.org/wiki/arbitrary), /ˈɑːbɪt(rə)ri/
+
+
