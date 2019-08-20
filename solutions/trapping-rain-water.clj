@@ -1,5 +1,5 @@
 ;;; https://leetcode.com/problems/trapping-rain-water/
-;;; by Alex Che
+;;; solution by Alex Che
 
 ;; with reduce
 (defn trap-rain-water [h]
