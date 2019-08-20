@@ -30,9 +30,7 @@ You can also focus on practicing in your target language first. For example, htt
 
 TODO: a list of algorithms theory and data structures topics, so we can rotate them every arbitrary period of time, e.g., a month or two
 
-TODO: buy a hardcopy of the "Cracking the Coding Interview" book
-
-TODO: a list of phone interview questions, https://javarevisited.blogspot.com/2015/02/50-programmer-phone-interview-questions-answers.html
+TODO: add more data science interview questions
 
 # Coding problems websites
 
@@ -63,11 +61,20 @@ Functional programming problems:
 Data science problems:
 
 - https://contest.yandex.ru/contest/8776/enter/
-- TODO: add more
 
-Code reviews:
+Paid code reviews (?):
 
 - https://geektastic.com
+
+Phone interview questions:
+
+- https://javarevisited.blogspot.com/2015/02/50-programmer-phone-interview-questions-answers.html
+
+Soft skills questions to discuss:
+
+- https://hundred5.com/blog/100-soft-skills-questions-to-help-you-hire-top-talent
+- https://www.goskills.com/Soft-Skills/Articles/Soft-skills-interview-questions-answers
+
 
 # Vocabulary
 
