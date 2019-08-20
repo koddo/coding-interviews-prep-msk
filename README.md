@@ -71,13 +71,43 @@ Code reviews:
 
 # Vocabulary
 
+<!--
+copypaste this template:
+- [](https://en.wiktionary.org/wiki/), 
+-->
+
 - [linear](https://en.wiktionary.org/wiki/linear) time, /ˈlɪnɪə/
+- [quadratic](https://en.wiktionary.org/wiki/quadratic) time, /kwɒˈdratɪk/
+
+<br />
+
 - [height](https://en.wiktionary.org/wiki/height) vs [hate](https://en.wiktionary.org/wiki/hate), /hʌɪt/ vs /heɪt/
 - [variable](https://en.wiktionary.org/wiki/variable), /ˈvɛːrɪəb(ə)l/
+- to [vary](https://en.wiktionary.org/wiki/vary), /ˈvɛːri/
+- [value](https://en.wiktionary.org/wiki/value), /ˈvaljuː/
+- [caveat](https://en.wiktionary.org/wiki/caveat), /ˈkavɪat/
+- [swap](https://en.wiktionary.org/wiki/swap), /swɒp/
 
-[vocabulary.md](vocabulary.md)
+<br />
 
-# Log
+- [probabilistic](https://en.wiktionary.org/wiki/probabilistic), /ˌprɒbəbɪˈlɪstɪk/
+- [deterministic](https://en.wiktionary.org/wiki/deterministic), /ˌdɪtəːmɪˈnɪstɪk/
+
+<br />
+
+- [also](https://en.wiktionary.org/wiki/also), /ˈɔːlsəʊ/, not /ˈɛ:lsəʊ/
+
+<br />
+
+- [arbitrary](https://en.wiktionary.org/wiki/arbitrary), /ˈɑːbɪt(rə)ri/
+
+# Log of our activity
+
+## 2019-08-18
+
+https://www.geeksforgeeks.org/maximum-difference-between-two-elements/
+
+A discussion of the Big O notation. And a small group of people showed off their knowledge of haskell and monads to each other.
 
 ## 2019-08-11
 
