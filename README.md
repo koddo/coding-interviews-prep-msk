@@ -28,6 +28,8 @@ You can also focus on practicing in your target language first. For example, htt
 
 # To-do list
 
+TODO: a list of good online courses
+
 TODO: a list of algorithms theory and data structures topics, so we can rotate them every arbitrary period of time, e.g., a month or two
 
 TODO: add more data science interview questions
