@@ -36,7 +36,7 @@ You can also focus on practicing in your target language first. For example:
 
 TODO: a list of good online courses
 
-TODO: a list of algorithms theory and data structures topics, so we can rotate them every arbitrary period of time, e.g., a month or two
+TODO: a list of algorithms theory and data structures topics, so we can rotate them every arbitrary period of time, e.g., a month or two: https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
 
 TODO: add more data science interview questions
 
