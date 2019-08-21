@@ -40,7 +40,7 @@ TODO: a list of algorithms theory and data structures topics, so we can rotate t
 
 TODO: add more data science interview questions
 
-TODO: code of conduct, with a line about using deodorant
+TODO: code of conduct
 
 # Coding problems websites
 
