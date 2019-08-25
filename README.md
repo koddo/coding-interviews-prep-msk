@@ -85,10 +85,6 @@ Soft skills questions:
 - https://hundred5.com/blog/100-soft-skills-questions-to-help-you-hire-top-talent
 - https://www.goskills.com/Soft-Skills/Articles/Soft-skills-interview-questions-answers
 
-And of course a list of lists of questions:
-
-- https://github.com/MaximAbramchuck/awesome-interview-questions
-
 # Vocabulary
 
 <!--
