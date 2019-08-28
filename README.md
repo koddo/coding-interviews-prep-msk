@@ -53,6 +53,10 @@ Our main resource:
 - https://www.hackerearth.com/
 - https://www.quora.com/What-are-some-good-coding-competition-practice-sites
 
+Btw, we have a paper copy of the "Cracking the Coding Interview" book at Kocherga, here's a repo with solutions in python:
+
+- https://github.com/careercup/CtCI-6th-Edition-Python
+
 Problems catalogued by company:
 
 - https://www.careercup.com/
@@ -112,7 +116,7 @@ copypaste this template:
 
 <br />
 
-- [also](https://en.wiktionary.org/wiki/also), /ˈɔːlsəʊ/, not /ˈɛ:lsəʊ/
+- [also](https://en.wiktionary.org/wiki/also), /ˈɔːlsəʊ/, not /ˈɛ:lsəʊ/; see also almost, already, altogether
 
 <br />
 
