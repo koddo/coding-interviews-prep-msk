@@ -124,6 +124,12 @@ copypaste this template:
 
 # Log of our activity
 
+## 2019-08-25
+
+https://leetcode.com/problems/subarray-sum-equals-k/
+
+Talked about a friend of a friend who had enough discipline to get thoroughly prepared for google interview process and now work at the headquoters in Switzerland.
+
 ## 2019-08-18
 
 https://www.geeksforgeeks.org/maximum-difference-between-two-elements/
