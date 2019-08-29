@@ -128,7 +128,7 @@ copypaste this template:
 
 https://leetcode.com/problems/subarray-sum-equals-k/
 
-Talked about a friend of a friend who had enough discipline to get thoroughly prepared for google interview process and now work at the headquoters in Switzerland.
+Talked about a friend of a friend who had enough discipline to get thoroughly prepared for the google interview process and now works at the headquoters in Switzerland.
 
 ## 2019-08-18
 
