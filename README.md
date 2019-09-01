@@ -124,6 +124,13 @@ copypaste this template:
 
 # Log of our activity
 
+## 2019-09-01
+
+We can't have enough of the [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/) problem. We discussed both quadratic and linear time solutions after introducing it to newcomers.
+
+https://leetcode.com/problems/surface-area-of-3d-shapes/  
+https://leetcode.com/problems/is-subsequence/  
+
 ## 2019-08-25
 
 https://leetcode.com/problems/subarray-sum-equals-k/
@@ -144,16 +151,16 @@ A group of people discussed the following big question: how does pagination work
 
 ## 2019-08-04
 
-- https://leetcode.com/problems/two-sum/
-- https://leetcode.com/problems/single-number/, https://leetcode.com/problems/single-number-ii/
-- https://leetcode.com/problems/trapping-rain-water/
+https://leetcode.com/problems/two-sum/  
+https://leetcode.com/problems/single-number/, https://leetcode.com/problems/single-number-ii/  
+https://leetcode.com/problems/trapping-rain-water/  
 
 ## 2019-07-28
 
 We spent most of the time introducing ourselves and talking. Then a group of people started helping a newbie with python, and others opened the season with solving the following:
 
-- https://leetcode.com/problems/reverse-words-in-a-string/ — the in-place variant
-- https://leetcode.com/problems/next-permutation/
+https://leetcode.com/problems/reverse-words-in-a-string/ — the in-place variant  
+https://leetcode.com/problems/next-permutation/  
 
 # Attributions
 
