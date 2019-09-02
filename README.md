@@ -131,6 +131,8 @@ We can't have enough of the [trapping-rain-water](https://leetcode.com/problems/
 https://leetcode.com/problems/surface-area-of-3d-shapes/  
 https://leetcode.com/problems/is-subsequence/  
 
+We briefly discussed normal forms. And tried to start a conversation about the REST architecture at the very end, but it's a huge topic, and everyone have different perspectives.
+
 ## 2019-08-25
 
 https://leetcode.com/problems/subarray-sum-equals-k/
