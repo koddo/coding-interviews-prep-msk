@@ -102,9 +102,12 @@ copypaste this template:
 
 <br />
 
-- [height](https://en.wiktionary.org/wiki/height) vs [hate](https://en.wiktionary.org/wiki/hate), /hʌɪt/ vs /heɪt/
 - [variable](https://en.wiktionary.org/wiki/variable), /ˈvɛːrɪəb(ə)l/
 - to [vary](https://en.wiktionary.org/wiki/vary), /ˈvɛːri/
+
+<br />
+
+- [height](https://en.wiktionary.org/wiki/height) vs [hate](https://en.wiktionary.org/wiki/hate), /hʌɪt/ vs /heɪt/
 - [value](https://en.wiktionary.org/wiki/value), /ˈvaljuː/
 - [caveat](https://en.wiktionary.org/wiki/caveat), /ˈkavɪat/
 - [swap](https://en.wiktionary.org/wiki/swap), /swɒp/
@@ -117,9 +120,6 @@ copypaste this template:
 <br />
 
 - [also](https://en.wiktionary.org/wiki/also), /ˈɔːlsəʊ/, not /ˈɛ:lsəʊ/; see also almost, already, altogether
-
-<br />
-
 - [arbitrary](https://en.wiktionary.org/wiki/arbitrary), /ˈɑːbɪt(rə)ri/
 
 # Log of our activity
@@ -131,7 +131,7 @@ We can't have enough of the [trapping-rain-water](https://leetcode.com/problems/
 https://leetcode.com/problems/surface-area-of-3d-shapes/  
 https://leetcode.com/problems/is-subsequence/  
 
-We briefly discussed normal forms. And tried to start a conversation about the REST architecture at the very end, but it's a huge topic, and everyone have different perspectives.
+We briefly discussed normal forms. And tried to start a conversation about the REST architecture at the very end, but it's a huge topic, and everyone has different perspectives.
 
 ## 2019-08-25
 
