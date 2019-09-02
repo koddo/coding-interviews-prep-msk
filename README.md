@@ -119,7 +119,7 @@ copypaste this template:
 
 <br />
 
-- [also](https://en.wiktionary.org/wiki/also), /ˈɔːlsəʊ/, not /ˈɛ:lsəʊ/; see also almost, already, altogether
+- [also](https://en.wiktionary.org/wiki/also), /ˈɔːlsəʊ/, not /ˈɛ:lsəʊ/ — see also almost, already, altogether
 - [arbitrary](https://en.wiktionary.org/wiki/arbitrary), /ˈɑːbɪt(rə)ri/
 
 # Log of our activity
