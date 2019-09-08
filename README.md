@@ -124,6 +124,14 @@ copypaste this template:
 
 # Log of our activity
 
+## 2019-09-08
+
+We decided to start with an easy problem we had last time, namely [is-subsequence](https://leetcode.com/problems/is-subsequence/), and Kate confused it with the [is-substring](https://leetcode.com/problems/implement-strstr/) and implemented the [Knuth–Morris–Pratt](https://en.wikipedia.org/wiki/Knuth–Morris–Pratt_algorithm) algorithm right away.
+
+We had a discussion about a product analytics job interview and other unrelated topics.
+
+https://leetcode.com/problems/shuffle-an-array/
+
 ## 2019-09-01
 
 We can't have enough of the [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/) problem. We discussed both quadratic and linear time solutions after introducing it to newcomers.
