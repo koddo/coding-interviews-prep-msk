@@ -128,9 +128,11 @@ copypaste this template:
 
 We decided to start with an easy problem we had last time, namely [is-subsequence](https://leetcode.com/problems/is-subsequence/), and Kate confused it with the [is-substring](https://leetcode.com/problems/implement-strstr/) and implemented the [Knuth–Morris–Pratt](https://en.wikipedia.org/wiki/Knuth–Morris–Pratt_algorithm) algorithm right away.
 
-We had a discussion about a product analytics job interview and other unrelated topics.
+Meanwhile we had a discussion about a product analytics job interview. And unrelated topics.
 
-https://leetcode.com/problems/shuffle-an-array/
+https://leetcode.com/problems/shuffle-an-array/  
+
+Homework: https://leetcode.com/problems/word-ladder/
 
 ## 2019-09-01
 
