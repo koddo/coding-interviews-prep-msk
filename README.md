@@ -53,7 +53,9 @@ Our main resource:
 - https://www.hackerearth.com/
 - https://www.quora.com/What-are-some-good-coding-competition-practice-sites
 
-Btw, we have a paper copy of the "Cracking the Coding Interview" book at Kocherga, here's a repo with solutions in python:
+<a name="CTCI6"></a>
+
+Btw, we have a paper copy of the "[Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)" book at Kocherga, here's a repo with solutions in python:
 
 - https://github.com/careercup/CtCI-6th-Edition-Python
 
@@ -130,7 +132,7 @@ copypaste this template:
 
 Discussed streams in java 8, decision trees for regression, and other random topics.
 
-[CTCI6] 16.23:
+[CTCI6](#CTCI6) 16.23:
 
 > Rand7 from Rand5: Implement a method rand7() given rand5(). That is, given a method that generates a random number between 0 and 4 (inclusive), write a method that generates a random number between 0 and 6 (inclusive).
 
