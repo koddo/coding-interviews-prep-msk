@@ -57,6 +57,8 @@ Btw, we have a paper copy of the "Cracking the Coding Interview" book at Kocherg
 
 - https://github.com/careercup/CtCI-6th-Edition-Python
 
+[CTCI6]: https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850
+
 Problems catalogued by company:
 
 - https://www.careercup.com/
@@ -123,6 +125,16 @@ copypaste this template:
 - [arbitrary](https://en.wiktionary.org/wiki/arbitrary), /ˈɑːbɪt(rə)ri/
 
 # Log of our activity
+
+## 2019-09-15
+
+Discussed streams in java 8, decision trees for regression, and other random topics.
+
+[CTCI6] 16.23:
+
+> Rand7 from Rand5: Implement a method rand7() given rand5(). That is, given a method that generates a random number between 0 and 4 (inclusive), write a method that generates a random number between 0 and 6 (inclusive).
+
+https://leetcode.com/problems/word-ladder/
 
 ## 2019-09-08
 
