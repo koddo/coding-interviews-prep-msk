@@ -136,6 +136,10 @@ Discussed streams in java 8, decision trees for regression, and other random top
 
 https://leetcode.com/problems/word-ladder/
 
+Tried to decipher this problem for analytics position:
+
+> Calculate subscription to refund conversion rate with a 1 day conversion window applied. Group by subscription date and apply 7 days rolling average.
+
 ## 2019-09-08
 
 We decided to start with an easy problem we had last time, namely [is-subsequence](https://leetcode.com/problems/is-subsequence/), and Kate confused it with the [is-substring](https://leetcode.com/problems/implement-strstr/) and implemented the [Knuth–Morris–Pratt](https://en.wikipedia.org/wiki/Knuth–Morris–Pratt_algorithm) algorithm right away.
