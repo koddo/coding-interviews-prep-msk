@@ -134,11 +134,11 @@ Discussed streams in java 8, decision trees for regression, and other random top
 
 > Rand7 from Rand5: Implement a method rand7() given rand5(). That is, given a method that generates a random number between 0 and 4 (inclusive), write a method that generates a random number between 0 and 6 (inclusive).
 
-https://leetcode.com/problems/word-ladder/
-
 Tried to decipher this problem for analytics position:
 
 > Calculate subscription to refund conversion rate with a 1 day conversion window applied. Group by subscription date and apply 7 days rolling average.
+
+https://leetcode.com/problems/word-ladder/
 
 ## 2019-09-08
 
