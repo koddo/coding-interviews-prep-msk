@@ -126,6 +126,10 @@ copypaste this template:
 
 # Log of our activity
 
+## 2019-09-22
+
+We discussed how decision trees, random forests, feature importance work. And solved some problems from past meetings.
+
 ## 2019-09-15
 
 Discussed streams in java 8, decision trees for regression, and other random topics.
