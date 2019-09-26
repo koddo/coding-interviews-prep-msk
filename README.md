@@ -78,6 +78,7 @@ Data science problems and questions:
 
 - https://contest.yandex.ru/contest/8776/enter/
 - https://medium.com/acing-ai/acing-ai-interviews/home
+- https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/
 
 Paid code reviews (?):
 
