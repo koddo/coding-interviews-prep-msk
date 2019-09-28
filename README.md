@@ -125,10 +125,10 @@ copypaste this template:
 - [also](https://en.wiktionary.org/wiki/also), /ˈɔːlsəʊ/, not /ˈɛ:lsəʊ/ — see also almost, already, altogether
 - [arbitrary](https://en.wiktionary.org/wiki/arbitrary), /ˈɑːbɪt(rə)ri/
 
-# Plans for upcoming meetups
+# Plans for upcoming meetings
 
 - How [Timsort](https://en.wikipedia.org/wiki/Timsort) works
-- The modern dictionaries talk, https://www.youtube.com/watch?v=p33CVV29OG8, about dict implementation in python 3.7
+- The modern dictionaries talk by Raymond Hettinger, https://www.youtube.com/watch?v=p33CVV29OG8, about the dict implementation in python 3.7
 
 # Log of our activity
 
