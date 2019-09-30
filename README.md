@@ -2,10 +2,6 @@ https://meetup.com/coding-interviews-prep-msk/
 
 Our telegram chat: https://t.me/coding_interviews_prep_msk
 
-# Table of contents
-
-[#log-of-our-activity](#log-of-our-activity)
-
 # Preparing for coding interviews together, in English
 
 ![a binary tree logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Complete_binary.svg/200px-Complete_binary.svg.png)
@@ -21,6 +17,14 @@ We are a friendly community, but If you'd like we could simulate a real-world wh
 Joking, don't be stressed too much. Just say hello, introduce yourself, and start geeking out.
 
 We meet at the Kocherga anticafe in Moscow (https://kocherga-club.ru/), which means each of us pays for the time spent there: 2.5 rubles per minute, it's 150 rubles per hour. They have free coffee and cookies though, and a wonderful nerdy atmosphere, you'll love it I promise. And they have VR btw.
+
+# Table of contents
+
+- [Your homework](#your-homework)
+- [Coding problems websites](#coding-problems-websites)
+- [Vocabulary](#vocabulary)
+- [Plans for upcoming meetings](#plans-for-upcoming-meetings)
+- [Log of our activity](#log-of-our-activity)
 
 # Your homework
 
