@@ -132,6 +132,16 @@ copypaste this template:
 
 # Log of our activity
 
+## 2019-09-29
+
+We had a short an unexciting conversation about running processes as root in docker containers.
+
+We started with [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/) and [shuffle-an-array](https://leetcode.com/problems/shuffle-an-array/) once again with new participants. Then solved a number of easy problems including:
+
+https://leetcode.com/problems/valid-anagram/  
+https://leetcode.com/problems/sum-of-two-integers/  
+https://leetcode.com/problems/pascals-triangle/  
+
 ## 2019-09-22
 
 We discussed how decision trees, random forests, feature importance work. And solved some problems from past meetings.
