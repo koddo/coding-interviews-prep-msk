@@ -2,6 +2,10 @@ https://meetup.com/coding-interviews-prep-msk/
 
 Our telegram chat: https://t.me/coding_interviews_prep_msk
 
+# Table of contents
+
+<#log-of-our-activity>
+
 # Preparing for coding interviews together, in English
 
 ![a binary tree logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Complete_binary.svg/200px-Complete_binary.svg.png)
