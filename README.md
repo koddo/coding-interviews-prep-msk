@@ -4,7 +4,7 @@ Our telegram chat: https://t.me/coding_interviews_prep_msk
 
 # Table of contents
 
-<#log-of-our-activity>
+[#log-of-our-activity](#log-of-our-activity)
 
 # Preparing for coding interviews together, in English
 
