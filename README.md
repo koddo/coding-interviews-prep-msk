@@ -67,6 +67,10 @@ Btw, we have a paper copy of the "[Cracking the Coding Interview](https://www.am
 
 - https://github.com/careercup/CtCI-6th-Edition-Python
 
+Misc:
+
+- https://github.com/SeanPrashad/lc -- A list of 160+ leetcode questions sorted by their common patterns
+
 Problems catalogued by company:
 
 - https://www.careercup.com/
@@ -139,6 +143,10 @@ copypaste this template:
 - The modern dictionaries talk by Raymond Hettinger, https://www.youtube.com/watch?v=p33CVV29OG8, about the dict implementation in python 3.7
 
 # Log of our activity
+
+## 2019-10-06
+
+We had many newcomers, so we had a lot of conversations and mostly solved old problems.
 
 ## 2019-09-29
 
