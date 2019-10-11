@@ -141,6 +141,8 @@ copypaste this template:
 
 - How [Timsort](https://en.wikipedia.org/wiki/Timsort) works
 - The modern dictionaries talk by Raymond Hettinger, https://www.youtube.com/watch?v=p33CVV29OG8, about the dict implementation in python 3.7
+- Gradient boosting
+- Back propagation
 
 # Log of our activity
 
