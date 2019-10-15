@@ -152,7 +152,7 @@ We gave old problems to newcomers and just hung out discussing random topics inc
 
 ## 2019-10-06
 
-We had many newcomers, so we had a lot of conversations and mostly solved old problems.
+We had many newcomers, so we had a lot of conversations and mostly solved old problems. My unsolicited advice to students is to not work during first two years of education.
 
 ## 2019-09-29
 
