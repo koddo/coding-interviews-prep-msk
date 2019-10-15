@@ -146,6 +146,10 @@ copypaste this template:
 
 # Log of our activity
 
+## 2019-10-13
+
+We gave old problems to newcomers and just hung out discussing random topics including gradient descent, react, soft skills, annoyance of the [SettingWithCopyWarning](https://www.dataquest.io/blog/settingwithcopywarning/) and it's [false negatives](https://github.com/pandas-dev/pandas/issues/9767).
+
 ## 2019-10-06
 
 We had many newcomers, so we had a lot of conversations and mostly solved old problems.
