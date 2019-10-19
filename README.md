@@ -63,9 +63,10 @@ Our main resource:
 
 <a name="CTCI"></a>
 
-Btw, we have a paper copy of the "[Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)" book at Kocherga, here's a repo with solutions in python:
+Btw, we have a paper copy of the "[Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)" book at Kocherga, here are the repos with solutions:
 
 - https://github.com/careercup/CtCI-6th-Edition-Python
+- https://github.com/careercup/CtCI-6th-Edition-cpp
 
 Misc:
 
