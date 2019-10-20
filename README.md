@@ -46,8 +46,6 @@ TODO: a list of good online courses
 
 TODO: a list of algorithms theory and data structures topics, so we can rotate them every arbitrary period of time, e.g., a month or two: https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
 
-TODO: add more data science interview questions
-
 TODO: code of conduct
 
 # Coding problems websites
@@ -89,6 +87,7 @@ Functional programming problems:
 
 Data science problems and questions:
 
+- https://rpubs.com/JDAHAN/172473
 - https://contest.yandex.ru/contest/8776/enter/
 - https://medium.com/acing-ai/acing-ai-interviews/home
 - https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/
