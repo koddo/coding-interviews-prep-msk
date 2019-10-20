@@ -106,6 +106,8 @@ Soft skills questions:
 - https://hundred5.com/blog/100-soft-skills-questions-to-help-you-hire-top-talent
 - https://www.goskills.com/Soft-Skills/Articles/Soft-skills-interview-questions-answers
 
+Another coding interviews group: https://github.com/noisebridge/nb_whiteboarding
+
 # Vocabulary
 
 <!--
