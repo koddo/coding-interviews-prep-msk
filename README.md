@@ -151,7 +151,7 @@ copypaste this template:
 
 We found another water trapping problem: https://leetcode.com/problems/container-with-most-water/
 
-[CTCI](#CTCI) 16.23: max submatrix: given an NxN matrix of positive and negative integers, write code to find the submatrix with the largest possible sum.
+[CTCI](#CTCI) 17.24: max submatrix: given an NxN matrix of positive and negative integers, write code to find the submatrix with the largest possible sum.
 
 ## 2019-10-13
 
