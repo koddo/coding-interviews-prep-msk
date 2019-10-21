@@ -107,6 +107,8 @@ Soft skills questions:
 
 Another coding interviews group: https://github.com/noisebridge/nb_whiteboarding
 
+And if you're tired of leetcode, here's a list of companies for you: http://they.whiteboarded.me/companies-that-dont-whiteboard.html
+
 # Vocabulary
 
 <!--
