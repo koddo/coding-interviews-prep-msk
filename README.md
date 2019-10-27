@@ -150,6 +150,11 @@ copypaste this template:
 
 # Log of our activity
 
+## 2019-10-27
+
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
+
 ## 2019-10-20
 
 We found another water trapping problem: https://leetcode.com/problems/container-with-most-water/
