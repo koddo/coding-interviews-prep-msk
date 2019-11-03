@@ -28,7 +28,7 @@ The meetup itself is free, but we meet at the Kocherga anticafe in Moscow (https
 
 # Your homework
 
-1. Sign up to https://www.hackerrank.com/, https://www.leetcode.com/, and https://www.geeksforgeeks.org/ to be ready to solve coding problems on these sites
+1. Sign up to https://www.hackerrank.com/ and https://www.leetcode.com/ to be ready to solve coding problems on these sites
 2. Actually solve a couple of entry level problems to get comfortable with the interface
 3. Install a dictionary on your phone and don't hesitate to use it
 
