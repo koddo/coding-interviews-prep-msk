@@ -150,6 +150,11 @@ copypaste this template:
 
 # Log of our activity
 
+## 2019-11-03
+
+https://leetcode.com/problems/count-of-smaller-numbers-after-self/
+https://leetcode.com/problems/happy-number/
+
 ## 2019-10-27
 
 https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
