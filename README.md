@@ -57,6 +57,7 @@ Our main resource:
 - https://www.geeksforgeeks.org/
 - https://www.codechef.com/
 - https://www.hackerearth.com/
+- https://www.codewars.com/
 - https://www.quora.com/What-are-some-good-coding-competition-practice-sites
 
 <a name="CTCI"></a>
@@ -145,15 +146,14 @@ copypaste this template:
 
 - How [Timsort](https://en.wikipedia.org/wiki/Timsort) works
 - The modern dictionaries talk by Raymond Hettinger, https://www.youtube.com/watch?v=p33CVV29OG8, about the dict implementation in python 3.7, https://stackoverflow.com/questions/327311/how-are-pythons-built-in-dictionaries-implemented/44509302#44509302
-- Gradient boosting
-- Back propagation
+- Gradient boosting, back propagation, etc
 
 # Log of our activity
 
 ## 2019-11-10
 
 https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/  
-[Two-dimensional trapping rain water](https://leetcode.com/problems/trapping-rain-water-ii/)  
+https://leetcode.com/problems/flood-fill/  
 https://leetcode.com/problems/delete-nodes-and-return-forest/  
 
 ## 2019-11-03
