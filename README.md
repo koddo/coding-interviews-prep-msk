@@ -152,11 +152,11 @@ copypaste this template:
 
 ## 2019-11-17
 
-https://leetcode.com/problems/non-decreasing-array/
-https://leetcode.com/problems/longest-substring-without-repeating-characters/
-https://leetcode.com/problems/maximum-subarray/
-https://leetcode.com/problems/binary-tree-maximum-path-sum/
-https://leetcode.com/problems/reveal-cards-in-increasing-order/
+https://leetcode.com/problems/non-decreasing-array/  
+https://leetcode.com/problems/longest-substring-without-repeating-characters/  
+https://leetcode.com/problems/maximum-subarray/  
+https://leetcode.com/problems/binary-tree-maximum-path-sum/  
+https://leetcode.com/problems/reveal-cards-in-increasing-order/  
 
 ## 2019-11-10
 
