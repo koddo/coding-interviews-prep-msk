@@ -150,6 +150,11 @@ copypaste this template:
 
 # Log of our activity
 
+## 2019-11-24
+
+https://leetcode.com/problems/house-robber/
+https://leetcode.com/problems/jump-game/
+
 ## 2019-11-17
 
 https://leetcode.com/problems/non-decreasing-array/  
