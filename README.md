@@ -150,6 +150,10 @@ copypaste this template:
 
 # Log of our activity
 
+## 2019-12-01
+
+We were solving problems from a number of real interviews at yandex.
+
 ## 2019-11-24
 
 https://leetcode.com/problems/house-robber/
