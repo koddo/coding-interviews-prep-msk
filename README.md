@@ -150,6 +150,10 @@ copypaste this template:
 
 # Log of our activity
 
+## 2019-12-15
+
+We discussed SVD and how it's not used in recommender systems. There are SVD-inspired algorithms like [Funk-SVD](https://en.wikipedia.org/wiki/Matrix_factorization_(recommender_systems)#Funk_MF).
+
 ## 2019-12-01
 
 We were solving problems from a number of real interviews at yandex.
