@@ -150,6 +150,10 @@ copypaste this template:
 
 # Log of our activity
 
+## 2019-12-29
+
+How to implement a generator that prints all polynomials?
+
 ## 2019-12-22
 
 https://leetcode.com/problems/search-in-rotated-sorted-array/  
