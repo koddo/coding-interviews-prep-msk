@@ -150,9 +150,13 @@ copypaste this template:
 
 # Log of our activity
 
+## 2020-01-12
+
+First meeting in new year, we lazily discussed processes at work.
+
 ## 2019-12-29
 
-How to implement a generator that prints all polynomials?
+How to implement a generator that prints all polynomials? Alex came up with this problem.
 
 ## 2019-12-22
 
