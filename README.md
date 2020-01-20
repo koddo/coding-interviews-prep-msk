@@ -157,7 +157,8 @@ copypaste this template:
 
 ## 2020-01-19
 
-We discussed how persistent datastructures work.
+We discussed how persistent datastructures work.  
+https://leetcode.com/problems/snapshot-array/  
 
 ## 2020-01-12
 
