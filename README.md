@@ -101,6 +101,10 @@ Phone interview questions:
 
 - https://javarevisited.blogspot.com/2015/02/50-programmer-phone-interview-questions-answers.html
 
+System design:
+
+- https://leetcode.com/discuss/interview-question/system-design
+
 Soft skills questions:
 
 - https://hundred5.com/blog/100-soft-skills-questions-to-help-you-hire-top-talent
@@ -146,9 +150,14 @@ copypaste this template:
 
 - How [Timsort](https://en.wikipedia.org/wiki/Timsort) works
 - The modern dictionaries talk by Raymond Hettinger, https://www.youtube.com/watch?v=p33CVV29OG8, about the dict implementation in python 3.7, https://stackoverflow.com/questions/327311/how-are-pythons-built-in-dictionaries-implemented/44509302#44509302
+- Persistent datastructures
 - Gradient boosting, back propagation, etc
 
 # Log of our activity
+
+## 2020-01-19
+
+We discussed how persistent datastructures work.
 
 ## 2020-01-12
 
@@ -174,8 +183,8 @@ We were solving problems from a number of real interviews at yandex.
 
 ## 2019-11-24
 
-https://leetcode.com/problems/house-robber/
-https://leetcode.com/problems/jump-game/
+https://leetcode.com/problems/house-robber/  
+https://leetcode.com/problems/jump-game/  
 
 ## 2019-11-17
 
