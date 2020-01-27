@@ -162,7 +162,7 @@ https://leetcode.com/problems/snapshot-array/
 
 ## 2020-01-12
 
-First meeting in new year, we lazily discussed processes at work.
+First meeting in new year, we lazily discussed broken processes at work.
 
 ## 2019-12-29
 
