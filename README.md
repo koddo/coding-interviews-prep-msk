@@ -104,6 +104,7 @@ Phone interview questions:
 System design:
 
 - https://leetcode.com/discuss/interview-question/system-design
+- (paid) https://www.educative.io/courses/grokking-the-system-design-interview — TODO: how good is it?
 
 Soft skills questions:
 
