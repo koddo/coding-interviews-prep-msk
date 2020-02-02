@@ -157,6 +157,11 @@ copypaste this template:
 
 # Log of our activity
 
+## 2020-02-02
+
+We were designing a mobile game similar to scramble, but with relaxed rules, where words could be written in any snakey shape without self-intersections. Finding the words on the grid and planning what letters to put is challenging.  
+https://leetcode.com/problems/implement-trie-prefix-tree/  
+
 ## 2020-01-19
 
 We discussed how persistent datastructures work.  
