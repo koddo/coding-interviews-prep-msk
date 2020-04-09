@@ -112,6 +112,10 @@ Soft skills questions:
 - https://hundred5.com/blog/100-soft-skills-questions-to-help-you-hire-top-talent
 - https://www.goskills.com/Soft-Skills/Articles/Soft-skills-interview-questions-answers
 
+Resume writing:
+
+- https://www.coursera.org/specializations/english-interview-resume
+
 Another coding interviews group: https://github.com/noisebridge/nb_whiteboarding
 
 And if you're tired of leetcode, here's a list of companies for you: http://they.whiteboarded.me/companies-that-dont-whiteboard.html
