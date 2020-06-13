@@ -118,7 +118,10 @@ Resume writing:
 
 Another coding interviews group: https://github.com/noisebridge/nb_whiteboarding
 
-And if you're tired of leetcode, here's a list of companies for you: http://they.whiteboarded.me/companies-that-dont-whiteboard.html
+And if you're tired of leetcode, here's a list of companies for you: 
+
+- http://they.whiteboarded.me/companies-that-dont-whiteboard.html
+- https://github.com/poteto/hiring-without-whiteboards
 
 # Vocabulary
 
