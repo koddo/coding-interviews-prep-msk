@@ -107,6 +107,10 @@ System design:
 - (paid) https://www.educative.io/courses/grokking-the-system-design-interview — TODO: how good is it?
 - https://github.com/checkcheckzz/system-design-interview
 
+An interesting question that used to be popular a decade ago:
+
+- What happens when you type google.com into your browser's address box and press enter? — https://github.com/alex/what-happens-when
+
 Soft skills questions:
 
 - https://hundred5.com/blog/100-soft-skills-questions-to-help-you-hire-top-talent
