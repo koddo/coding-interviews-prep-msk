@@ -127,6 +127,8 @@ And if you're tired of leetcode, here's a list of companies for you:
 - http://they.whiteboarded.me/companies-that-dont-whiteboard.html
 - https://github.com/poteto/hiring-without-whiteboards
 
+A presentation on code retreats, in Russian: https://www.youtube.com/watch?v=9SWTNsKj0ms
+
 # Vocabulary
 
 <!--
